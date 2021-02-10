@@ -10,6 +10,6 @@ print(s.nh3)
 
 print(s.temperature)
 
-#d.action(Action.LEAVE_INTERACTIVE_MODE)
-#d.close()
+d.action(Action.LEAVE_INTERACTIVE_MODE)
+d.close()
 
